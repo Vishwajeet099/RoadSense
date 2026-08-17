@@ -1,0 +1,17 @@
+{
+  "video": {
+    "source": "/Users/vishwajeet/Desktop/Projects/RoadSense/data/raw/smoke.mp4",
+    "frame_count": 3,
+    "fps": 5.0,
+    "width": 320,
+    "height": 240,
+    "annotated_video_path": "/Users/vishwajeet/Desktop/Projects/RoadSense/outputs/videos/smoke.mp4"
+  },
+  "summary": {
+    "detections_count": 0,
+    "road_users_count": 0,
+    "risk_events_count": 0
+  },
+  "detections": [],
+  "risk_events": []
+}

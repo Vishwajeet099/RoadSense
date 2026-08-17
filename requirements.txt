@@ -1,0 +1,8 @@
+fastapi[standard]>=0.115.0
+ultralytics>=8.3.0
+opencv-python>=4.10.0
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.5.0
+matplotlib>=3.9.0
+imageio-ffmpeg>=0.6.0

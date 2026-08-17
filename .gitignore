@@ -1,0 +1,51 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pycache_tmp/
+.cache/
+
+# Environment
+.env
+.env.local
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Models
+*.pt
+*.pth
+*.onnx
+
+# Data
+data/raw/*
+data/processed/*
+data/annotations/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/annotations/.gitkeep
+
+# Generated output
+outputs/*
+!outputs/videos/
+!outputs/videos/.gitkeep
+!outputs/frames/
+!outputs/frames/.gitkeep
+!outputs/detections/
+!outputs/detections/.gitkeep
+!outputs/tracks/
+!outputs/tracks/.gitkeep
+!outputs/graphs/
+!outputs/graphs/.gitkeep
+!outputs/reports/
+!outputs/reports/.gitkeep
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

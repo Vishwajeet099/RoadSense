@@ -1,0 +1,2221 @@
+{
+  "video": {
+    "source": "12165308-uhd_3840_2160_30fps.mp4",
+    "frame_count": 364,
+    "fps": 29.97002997002997,
+    "width": 3840,
+    "height": 2160,
+    "annotated_video_path": null
+  },
+  "summary": {
+    "detections_count": 129,
+    "road_users_count": 54,
+    "risk_events_count": 33
+  },
+  "detections": [
+    {
+      "frame_index": 0,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.6840078234672546,
+      "bbox_xyxy": [
+        2160.90869140625,
+        1731.094970703125,
+        2325.126708984375,
+        1949.5987548828125
+      ],
+      "track_id": 1,
+      "is_risk": true
+    },
+    {
+      "frame_index": 0,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.6480969190597534,
+      "bbox_xyxy": [
+        2296.689697265625,
+        1585.497802734375,
+        2441.92822265625,
+        1757.328369140625
+      ],
+      "track_id": 2,
+      "is_risk": false
+    },
+    {
+      "frame_index": 0,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.5716953873634338,
+      "bbox_xyxy": [
+        2377.56591796875,
+        1842.3319091796875,
+        2450.0888671875,
+        2013.9189453125
+      ],
+      "track_id": 3,
+      "is_risk": true
+    },
+    {
+      "frame_index": 0,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.5648224949836731,
+      "bbox_xyxy": [
+        1517.16259765625,
+        1766.9945068359375,
+        1706.9913330078125,
+        1955.772216796875
+      ],
+      "track_id": 4,
+      "is_risk": false
+    },
+    {
+      "frame_index": 0,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.5284829139709473,
+      "bbox_xyxy": [
+        2578.064697265625,
+        1443.50537109375,
+        2641.8330078125,
+        1556.8564453125
+      ],
+      "track_id": 5,
+      "is_risk": false
+    },
+    {
+      "frame_index": 0,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.47344541549682617,
+      "bbox_xyxy": [
+        2452.13623046875,
+        1236.8277587890625,
+        2604.407470703125,
+        1353.04443359375
+      ],
+      "track_id": 6,
+      "is_risk": false
+    },
+    {
+      "frame_index": 0,
+      "class_id": 7,
+      "label": "truck",
+      "confidence": 0.43884217739105225,
+      "bbox_xyxy": [
+        2751.505859375,
+        1001.1859130859375,
+        2890.82373046875,
+        1219.9398193359375
+      ],
+      "track_id": 7,
+      "is_risk": true
+    },
+    {
+      "frame_index": 0,
+      "class_id": 7,
+      "label": "truck",
+      "confidence": 0.4056072235107422,
+      "bbox_xyxy": [
+        2487.95361328125,
+        1759.9881591796875,
+        2707.537353515625,
+        2156.530029296875
+      ],
+      "track_id": 8,
+      "is_risk": true
+    },
+    {
+      "frame_index": 0,
+      "class_id": 7,
+      "label": "truck",
+      "confidence": 0.36680740118026733,
+      "bbox_xyxy": [
+        1742.548583984375,
+        1908.73388671875,
+        1966.3280029296875,
+        2160.0
+      ],
+      "track_id": 9,
+      "is_risk": false
+    },
+    {
+      "frame_index": 0,
+      "class_id": 5,
+      "label": "bus",
+      "confidence": 0.33645355701446533,
+      "bbox_xyxy": [
+        2751.790283203125,
+        1002.7457885742188,
+        2893.48291015625,
+        1218.8741455078125
+      ],
+      "track_id": 10,
+      "is_risk": true
+    },
+    {
+      "frame_index": 0,
+      "class_id": 7,
+      "label": "truck",
+      "confidence": 0.312815397977829,
+      "bbox_xyxy": [
+        1.1749420166015625,
+        1942.41943359375,
+        350.7022705078125,
+        2157.150146484375
+      ],
+      "track_id": 11,
+      "is_risk": false
+    },
+    {
+      "frame_index": 0,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2976332902908325,
+      "bbox_xyxy": [
+        2097.265380859375,
+        1633.3828125,
+        2155.2431640625,
+        1772.439697265625
+      ],
+      "track_id": 12,
+      "is_risk": true
+    },
+    {
+      "frame_index": 30,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.698608934879303,
+      "bbox_xyxy": [
+        1527.1072998046875,
+        1716.113525390625,
+        1602.03076171875,
+        1883.318115234375
+      ],
+      "track_id": 13,
+      "is_risk": false
+    },
+    {
+      "frame_index": 30,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.6260359287261963,
+      "bbox_xyxy": [
+        2555.759521484375,
+        1681.524658203125,
+        2609.63818359375,
+        1829.8082275390625
+      ],
+      "track_id": 14,
+      "is_risk": false
+    },
+    {
+      "frame_index": 30,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.6212003827095032,
+      "bbox_xyxy": [
+        2308.903564453125,
+        1862.4969482421875,
+        2513.558837890625,
+        2100.148681640625
+      ],
+      "track_id": 15,
+      "is_risk": false
+    },
+    {
+      "frame_index": 30,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.5407238006591797,
+      "bbox_xyxy": [
+        2291.345947265625,
+        1663.8702392578125,
+        2359.903564453125,
+        1807.5736083984375
+      ],
+      "track_id": 16,
+      "is_risk": false
+    },
+    {
+      "frame_index": 30,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.5272824168205261,
+      "bbox_xyxy": [
+        2661.699462890625,
+        922.40625,
+        2824.071533203125,
+        987.216796875
+      ],
+      "track_id": 17,
+      "is_risk": false
+    },
+    {
+      "frame_index": 30,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.49568793177604675,
+      "bbox_xyxy": [
+        2466.95458984375,
+        1309.6627197265625,
+        2603.541748046875,
+        1436.052001953125
+      ],
+      "track_id": 6,
+      "is_risk": false
+    },
+    {
+      "frame_index": 30,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.30603957176208496,
+      "bbox_xyxy": [
+        1464.017578125,
+        1510.034912109375,
+        1526.4962158203125,
+        1636.711669921875
+      ],
+      "track_id": 18,
+      "is_risk": false
+    },
+    {
+      "frame_index": 30,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2581303119659424,
+      "bbox_xyxy": [
+        1925.89892578125,
+        1455.4241943359375,
+        2006.619140625,
+        1618.72314453125
+      ],
+      "track_id": 19,
+      "is_risk": false
+    },
+    {
+      "frame_index": 30,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2520800232887268,
+      "bbox_xyxy": [
+        2872.078125,
+        2035.70556640625,
+        2926.646240234375,
+        2159.864990234375
+      ],
+      "track_id": 20,
+      "is_risk": false
+    },
+    {
+      "frame_index": 60,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.448117733001709,
+      "bbox_xyxy": [
+        2656.563232421875,
+        1238.1336669921875,
+        2819.27001953125,
+        1377.0162353515625
+      ],
+      "track_id": 21,
+      "is_risk": true
+    },
+    {
+      "frame_index": 60,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.40828418731689453,
+      "bbox_xyxy": [
+        2333.941650390625,
+        1344.736572265625,
+        2520.240478515625,
+        1491.094970703125
+      ],
+      "track_id": 6,
+      "is_risk": true
+    },
+    {
+      "frame_index": 60,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3973066806793213,
+      "bbox_xyxy": [
+        2253.98974609375,
+        1911.7803955078125,
+        2338.949951171875,
+        2109.310791015625
+      ],
+      "track_id": 3,
+      "is_risk": false
+    },
+    {
+      "frame_index": 60,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.3742934465408325,
+      "bbox_xyxy": [
+        2649.4130859375,
+        1033.6124267578125,
+        2758.192138671875,
+        1126.458251953125
+      ],
+      "track_id": 17,
+      "is_risk": false
+    },
+    {
+      "frame_index": 60,
+      "class_id": 7,
+      "label": "truck",
+      "confidence": 0.36904075741767883,
+      "bbox_xyxy": [
+        2492.541748046875,
+        1822.323486328125,
+        2743.013916015625,
+        2157.72216796875
+      ],
+      "track_id": 8,
+      "is_risk": false
+    },
+    {
+      "frame_index": 60,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.3366648554801941,
+      "bbox_xyxy": [
+        1317.220458984375,
+        1409.4814453125,
+        1429.5604248046875,
+        1465.9178466796875
+      ],
+      "track_id": 22,
+      "is_risk": false
+    },
+    {
+      "frame_index": 60,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3193405568599701,
+      "bbox_xyxy": [
+        2684.600830078125,
+        1456.8790283203125,
+        2727.38134765625,
+        1565.6378173828125
+      ],
+      "track_id": 5,
+      "is_risk": false
+    },
+    {
+      "frame_index": 60,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3167150020599365,
+      "bbox_xyxy": [
+        2357.458740234375,
+        1699.8134765625,
+        2418.703125,
+        1830.0875244140625
+      ],
+      "track_id": 16,
+      "is_risk": false
+    },
+    {
+      "frame_index": 60,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3121485114097595,
+      "bbox_xyxy": [
+        1425.8592529296875,
+        1682.7587890625,
+        1477.8201904296875,
+        1809.3363037109375
+      ],
+      "track_id": 13,
+      "is_risk": false
+    },
+    {
+      "frame_index": 60,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.29638999700546265,
+      "bbox_xyxy": [
+        2526.647705078125,
+        1177.582275390625,
+        2633.89111328125,
+        1290.056640625
+      ],
+      "track_id": 23,
+      "is_risk": true
+    },
+    {
+      "frame_index": 60,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.2638189196586609,
+      "bbox_xyxy": [
+        2692.404052734375,
+        1238.1947021484375,
+        2816.007080078125,
+        1358.682861328125
+      ],
+      "track_id": 24,
+      "is_risk": true
+    },
+    {
+      "frame_index": 60,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.262441486120224,
+      "bbox_xyxy": [
+        2303.69677734375,
+        1385.6802978515625,
+        2466.158935546875,
+        1498.8978271484375
+      ],
+      "track_id": 25,
+      "is_risk": true
+    },
+    {
+      "frame_index": 60,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.26110631227493286,
+      "bbox_xyxy": [
+        2519.3642578125,
+        1210.1153564453125,
+        2622.64306640625,
+        1293.83349609375
+      ],
+      "track_id": 26,
+      "is_risk": true
+    },
+    {
+      "frame_index": 60,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.25984954833984375,
+      "bbox_xyxy": [
+        1475.5396728515625,
+        1445.9346923828125,
+        1523.9703369140625,
+        1557.158203125
+      ],
+      "track_id": 18,
+      "is_risk": false
+    },
+    {
+      "frame_index": 90,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.699439525604248,
+      "bbox_xyxy": [
+        2415.615234375,
+        1161.386474609375,
+        2594.966064453125,
+        1257.3035888671875
+      ],
+      "track_id": 26,
+      "is_risk": false
+    },
+    {
+      "frame_index": 90,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.6483887434005737,
+      "bbox_xyxy": [
+        2178.301513671875,
+        1827.462158203125,
+        2388.049072265625,
+        2108.912841796875
+      ],
+      "track_id": 15,
+      "is_risk": false
+    },
+    {
+      "frame_index": 90,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.5150701999664307,
+      "bbox_xyxy": [
+        2501.0595703125,
+        1445.020751953125,
+        2548.27294921875,
+        1558.3839111328125
+      ],
+      "track_id": 27,
+      "is_risk": false
+    },
+    {
+      "frame_index": 90,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.48005545139312744,
+      "bbox_xyxy": [
+        2234.868896484375,
+        1514.161376953125,
+        2383.44580078125,
+        1679.583984375
+      ],
+      "track_id": 2,
+      "is_risk": false
+    },
+    {
+      "frame_index": 90,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.47512245178222656,
+      "bbox_xyxy": [
+        1582.9332275390625,
+        1744.7559814453125,
+        1654.197509765625,
+        1911.8280029296875
+      ],
+      "track_id": 28,
+      "is_risk": false
+    },
+    {
+      "frame_index": 90,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2985498309135437,
+      "bbox_xyxy": [
+        1339.3216552734375,
+        1324.7249755859375,
+        1389.2359619140625,
+        1427.0157470703125
+      ],
+      "track_id": 29,
+      "is_risk": false
+    },
+    {
+      "frame_index": 90,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.29212066531181335,
+      "bbox_xyxy": [
+        1470.3626708984375,
+        1477.417236328125,
+        1514.7747802734375,
+        1580.902587890625
+      ],
+      "track_id": 18,
+      "is_risk": false
+    },
+    {
+      "frame_index": 90,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.29001733660697937,
+      "bbox_xyxy": [
+        1339.01318359375,
+        1550.2686767578125,
+        1387.54052734375,
+        1685.8385009765625
+      ],
+      "track_id": 13,
+      "is_risk": false
+    },
+    {
+      "frame_index": 120,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.770391583442688,
+      "bbox_xyxy": [
+        1557.9539794921875,
+        1566.83349609375,
+        1732.1715087890625,
+        1722.6419677734375
+      ],
+      "track_id": 30,
+      "is_risk": false
+    },
+    {
+      "frame_index": 120,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.6483051180839539,
+      "bbox_xyxy": [
+        2203.106201171875,
+        1804.6248779296875,
+        2423.10498046875,
+        2066.55126953125
+      ],
+      "track_id": 15,
+      "is_risk": false
+    },
+    {
+      "frame_index": 120,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.461409330368042,
+      "bbox_xyxy": [
+        2623.77392578125,
+        1801.493896484375,
+        2674.830322265625,
+        1976.454833984375
+      ],
+      "track_id": 14,
+      "is_risk": true
+    },
+    {
+      "frame_index": 120,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.44484105706214905,
+      "bbox_xyxy": [
+        2401.85546875,
+        1416.1513671875,
+        2698.290771484375,
+        1763.0684814453125
+      ],
+      "track_id": 31,
+      "is_risk": true
+    },
+    {
+      "frame_index": 120,
+      "class_id": 7,
+      "label": "truck",
+      "confidence": 0.4162690043449402,
+      "bbox_xyxy": [
+        2400.556640625,
+        1416.1029052734375,
+        2697.964599609375,
+        1765.0986328125
+      ],
+      "track_id": 32,
+      "is_risk": true
+    },
+    {
+      "frame_index": 120,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3863031566143036,
+      "bbox_xyxy": [
+        1632.4200439453125,
+        1827.693359375,
+        1690.9896240234375,
+        1939.9443359375
+      ],
+      "track_id": 28,
+      "is_risk": false
+    },
+    {
+      "frame_index": 120,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.33372193574905396,
+      "bbox_xyxy": [
+        1457.7642822265625,
+        1467.7840576171875,
+        1500.5736083984375,
+        1581.6925048828125
+      ],
+      "track_id": 18,
+      "is_risk": false
+    },
+    {
+      "frame_index": 120,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2551494538784027,
+      "bbox_xyxy": [
+        1442.441162109375,
+        1921.1895751953125,
+        1501.207763671875,
+        2020.7081298828125
+      ],
+      "track_id": 33,
+      "is_risk": false
+    },
+    {
+      "frame_index": 150,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.5788054466247559,
+      "bbox_xyxy": [
+        2510.8837890625,
+        1863.2845458984375,
+        2591.885009765625,
+        2024.3074951171875
+      ],
+      "track_id": 14,
+      "is_risk": false
+    },
+    {
+      "frame_index": 150,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.5625455379486084,
+      "bbox_xyxy": [
+        1619.2342529296875,
+        2021.4510498046875,
+        1699.560791015625,
+        2160.0
+      ],
+      "track_id": 34,
+      "is_risk": false
+    },
+    {
+      "frame_index": 150,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.5052638053894043,
+      "bbox_xyxy": [
+        2857.611328125,
+        1935.301513671875,
+        2947.69189453125,
+        2148.451171875
+      ],
+      "track_id": 20,
+      "is_risk": true
+    },
+    {
+      "frame_index": 150,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.4472169280052185,
+      "bbox_xyxy": [
+        2443.0166015625,
+        1495.57470703125,
+        2649.441650390625,
+        1717.765869140625
+      ],
+      "track_id": 31,
+      "is_risk": true
+    },
+    {
+      "frame_index": 150,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.4241458773612976,
+      "bbox_xyxy": [
+        2168.493408203125,
+        1633.604736328125,
+        2300.324951171875,
+        1832.11376953125
+      ],
+      "track_id": 1,
+      "is_risk": false
+    },
+    {
+      "frame_index": 150,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.38338541984558105,
+      "bbox_xyxy": [
+        2460.66064453125,
+        924.8772583007812,
+        2541.61083984375,
+        989.0070190429688
+      ],
+      "track_id": 35,
+      "is_risk": false
+    },
+    {
+      "frame_index": 150,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3793485164642334,
+      "bbox_xyxy": [
+        2320.41748046875,
+        1491.6102294921875,
+        2370.158447265625,
+        1601.2684326171875
+      ],
+      "track_id": 36,
+      "is_risk": true
+    },
+    {
+      "frame_index": 150,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.32450759410858154,
+      "bbox_xyxy": [
+        1552.650634765625,
+        1635.46875,
+        1614.598876953125,
+        1750.707275390625
+      ],
+      "track_id": 37,
+      "is_risk": false
+    },
+    {
+      "frame_index": 150,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.28432878851890564,
+      "bbox_xyxy": [
+        2546.8271484375,
+        1166.6605224609375,
+        2592.48193359375,
+        1248.687744140625
+      ],
+      "track_id": 38,
+      "is_risk": false
+    },
+    {
+      "frame_index": 150,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2770529091358185,
+      "bbox_xyxy": [
+        2412.968994140625,
+        1243.8145751953125,
+        2459.644775390625,
+        1330.597412109375
+      ],
+      "track_id": 39,
+      "is_risk": false
+    },
+    {
+      "frame_index": 150,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.27336591482162476,
+      "bbox_xyxy": [
+        2961.98974609375,
+        1963.642822265625,
+        3018.025146484375,
+        2132.00048828125
+      ],
+      "track_id": 40,
+      "is_risk": true
+    },
+    {
+      "frame_index": 150,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.2610612213611603,
+      "bbox_xyxy": [
+        1367.7041015625,
+        1344.232177734375,
+        1475.203857421875,
+        1488.2919921875
+      ],
+      "track_id": 22,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.667944610118866,
+      "bbox_xyxy": [
+        2386.2685546875,
+        1708.7442626953125,
+        2452.0341796875,
+        1857.0113525390625
+      ],
+      "track_id": 16,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.6351010799407959,
+      "bbox_xyxy": [
+        1706.9979248046875,
+        1927.2410888671875,
+        1929.0107421875,
+        2153.343994140625
+      ],
+      "track_id": 41,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.6013416051864624,
+      "bbox_xyxy": [
+        2326.234619140625,
+        1168.1544189453125,
+        2524.502685546875,
+        1287.8724365234375
+      ],
+      "track_id": 26,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.5054305195808411,
+      "bbox_xyxy": [
+        1399.8680419921875,
+        1196.98388671875,
+        1595.3096923828125,
+        1301.6800537109375
+      ],
+      "track_id": 42,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.5048859715461731,
+      "bbox_xyxy": [
+        1358.69091796875,
+        1677.9180908203125,
+        1510.4051513671875,
+        1857.6331787109375
+      ],
+      "track_id": 43,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.4170093834400177,
+      "bbox_xyxy": [
+        2176.5595703125,
+        1751.8023681640625,
+        2254.301513671875,
+        1913.0281982421875
+      ],
+      "track_id": 12,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3950842022895813,
+      "bbox_xyxy": [
+        1481.0225830078125,
+        1428.4720458984375,
+        1524.45556640625,
+        1539.626953125
+      ],
+      "track_id": 18,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3511465787887573,
+      "bbox_xyxy": [
+        2280.077880859375,
+        1609.863037109375,
+        2339.06494140625,
+        1751.487060546875
+      ],
+      "track_id": 36,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.2970864772796631,
+      "bbox_xyxy": [
+        2418.205810546875,
+        813.0254516601562,
+        2507.543701171875,
+        899.4678955078125
+      ],
+      "track_id": 35,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2902505099773407,
+      "bbox_xyxy": [
+        2842.507568359375,
+        2017.820068359375,
+        2895.410400390625,
+        2159.671875
+      ],
+      "track_id": 20,
+      "is_risk": true
+    },
+    {
+      "frame_index": 180,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.28920435905456543,
+      "bbox_xyxy": [
+        2609.697509765625,
+        1799.1917724609375,
+        2652.5947265625,
+        1931.5931396484375
+      ],
+      "track_id": 14,
+      "is_risk": false
+    },
+    {
+      "frame_index": 180,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2753179967403412,
+      "bbox_xyxy": [
+        2846.57373046875,
+        1934.2042236328125,
+        2911.238525390625,
+        2159.86474609375
+      ],
+      "track_id": 40,
+      "is_risk": true
+    },
+    {
+      "frame_index": 180,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.27402761578559875,
+      "bbox_xyxy": [
+        2840.84423828125,
+        1964.5423583984375,
+        2899.333984375,
+        2159.614501953125
+      ],
+      "track_id": 44,
+      "is_risk": true
+    },
+    {
+      "frame_index": 180,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2513645887374878,
+      "bbox_xyxy": [
+        2473.0478515625,
+        2068.005126953125,
+        2525.69580078125,
+        2160.0
+      ],
+      "track_id": 45,
+      "is_risk": false
+    },
+    {
+      "frame_index": 210,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.5051605701446533,
+      "bbox_xyxy": [
+        2373.13134765625,
+        1868.898681640625,
+        2584.27294921875,
+        2138.429443359375
+      ],
+      "track_id": 46,
+      "is_risk": false
+    },
+    {
+      "frame_index": 210,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.4938856363296509,
+      "bbox_xyxy": [
+        1591.30224609375,
+        1710.58154296875,
+        1797.298828125,
+        1939.029052734375
+      ],
+      "track_id": 4,
+      "is_risk": false
+    },
+    {
+      "frame_index": 210,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.4143764078617096,
+      "bbox_xyxy": [
+        1379.3895263671875,
+        1539.664306640625,
+        1426.9552001953125,
+        1658.431640625
+      ],
+      "track_id": 13,
+      "is_risk": false
+    },
+    {
+      "frame_index": 210,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.4056958258152008,
+      "bbox_xyxy": [
+        2351.725341796875,
+        1678.3172607421875,
+        2417.42578125,
+        1823.3734130859375
+      ],
+      "track_id": 16,
+      "is_risk": false
+    },
+    {
+      "frame_index": 210,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.3144010603427887,
+      "bbox_xyxy": [
+        250.32569885253906,
+        2002.0423583984375,
+        557.4431762695312,
+        2144.76025390625
+      ],
+      "track_id": 47,
+      "is_risk": false
+    },
+    {
+      "frame_index": 210,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2979179620742798,
+      "bbox_xyxy": [
+        2112.88916015625,
+        1936.0869140625,
+        2167.25244140625,
+        2075.099365234375
+      ],
+      "track_id": 3,
+      "is_risk": false
+    },
+    {
+      "frame_index": 210,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.28661254048347473,
+      "bbox_xyxy": [
+        2401.822265625,
+        1528.412841796875,
+        2457.251953125,
+        1641.427734375
+      ],
+      "track_id": 27,
+      "is_risk": false
+    },
+    {
+      "frame_index": 240,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.5624603033065796,
+      "bbox_xyxy": [
+        1627.4208984375,
+        2051.341552734375,
+        1704.627685546875,
+        2160.0
+      ],
+      "track_id": 34,
+      "is_risk": false
+    },
+    {
+      "frame_index": 240,
+      "class_id": 5,
+      "label": "bus",
+      "confidence": 0.5322421789169312,
+      "bbox_xyxy": [
+        2180.094482421875,
+        1479.6390380859375,
+        2395.6142578125,
+        1888.4190673828125
+      ],
+      "track_id": 48,
+      "is_risk": true
+    },
+    {
+      "frame_index": 240,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.5026471018791199,
+      "bbox_xyxy": [
+        1621.3209228515625,
+        1737.0311279296875,
+        1674.3402099609375,
+        1906.6171875
+      ],
+      "track_id": 28,
+      "is_risk": false
+    },
+    {
+      "frame_index": 240,
+      "class_id": 7,
+      "label": "truck",
+      "confidence": 0.4363981783390045,
+      "bbox_xyxy": [
+        2182.566162109375,
+        1480.5556640625,
+        2397.67919921875,
+        1888.24365234375
+      ],
+      "track_id": 49,
+      "is_risk": true
+    },
+    {
+      "frame_index": 240,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.3990775942802429,
+      "bbox_xyxy": [
+        2539.60400390625,
+        1080.8719482421875,
+        2659.32275390625,
+        1186.7684326171875
+      ],
+      "track_id": 23,
+      "is_risk": false
+    },
+    {
+      "frame_index": 240,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.38887453079223633,
+      "bbox_xyxy": [
+        1271.012451171875,
+        1541.4844970703125,
+        1380.5391845703125,
+        1670.8631591796875
+      ],
+      "track_id": 50,
+      "is_risk": false
+    },
+    {
+      "frame_index": 240,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.31065434217453003,
+      "bbox_xyxy": [
+        2730.889892578125,
+        1222.787109375,
+        2825.40966796875,
+        1335.688232421875
+      ],
+      "track_id": 24,
+      "is_risk": false
+    },
+    {
+      "frame_index": 270,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.5373265147209167,
+      "bbox_xyxy": [
+        2399.880126953125,
+        1430.3048095703125,
+        2505.78173828125,
+        1545.193359375
+      ],
+      "track_id": 6,
+      "is_risk": false
+    },
+    {
+      "frame_index": 270,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.4567660987377167,
+      "bbox_xyxy": [
+        1953.9920654296875,
+        1852.193603515625,
+        2029.0111083984375,
+        2007.916748046875
+      ],
+      "track_id": 3,
+      "is_risk": false
+    },
+    {
+      "frame_index": 270,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.45092540979385376,
+      "bbox_xyxy": [
+        2549.04296875,
+        1064.430908203125,
+        2673.98681640625,
+        1137.059326171875
+      ],
+      "track_id": 23,
+      "is_risk": false
+    },
+    {
+      "frame_index": 270,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.36718669533729553,
+      "bbox_xyxy": [
+        1689.0506591796875,
+        1786.427490234375,
+        1753.2254638671875,
+        1924.486083984375
+      ],
+      "track_id": 28,
+      "is_risk": false
+    },
+    {
+      "frame_index": 270,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.3067232072353363,
+      "bbox_xyxy": [
+        2395.450927734375,
+        1287.8089599609375,
+        2528.468994140625,
+        1357.708740234375
+      ],
+      "track_id": 26,
+      "is_risk": true
+    },
+    {
+      "frame_index": 270,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.2796388268470764,
+      "bbox_xyxy": [
+        2405.5888671875,
+        1265.9185791015625,
+        2535.22265625,
+        1356.1541748046875
+      ],
+      "track_id": 25,
+      "is_risk": true
+    },
+    {
+      "frame_index": 300,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.6205511689186096,
+      "bbox_xyxy": [
+        2350.529541015625,
+        1823.8033447265625,
+        2421.694580078125,
+        2009.6737060546875
+      ],
+      "track_id": 16,
+      "is_risk": false
+    },
+    {
+      "frame_index": 300,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.5011880993843079,
+      "bbox_xyxy": [
+        2180.985595703125,
+        1409.5189208984375,
+        2345.0458984375,
+        1532.1519775390625
+      ],
+      "track_id": 2,
+      "is_risk": true
+    },
+    {
+      "frame_index": 300,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.49758380651474,
+      "bbox_xyxy": [
+        2499.3486328125,
+        1361.6077880859375,
+        2615.0009765625,
+        1490.6082763671875
+      ],
+      "track_id": 6,
+      "is_risk": false
+    },
+    {
+      "frame_index": 300,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.4514015316963196,
+      "bbox_xyxy": [
+        2217.808837890625,
+        1392.8720703125,
+        2345.78125,
+        1530.9671630859375
+      ],
+      "track_id": 51,
+      "is_risk": true
+    },
+    {
+      "frame_index": 300,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.397417813539505,
+      "bbox_xyxy": [
+        2357.232421875,
+        1298.943603515625,
+        2402.798828125,
+        1402.1766357421875
+      ],
+      "track_id": 39,
+      "is_risk": false
+    },
+    {
+      "frame_index": 300,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.358230859041214,
+      "bbox_xyxy": [
+        2339.58251953125,
+        1659.85400390625,
+        2400.8818359375,
+        1791.20947265625
+      ],
+      "track_id": 36,
+      "is_risk": false
+    },
+    {
+      "frame_index": 300,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.31882527470588684,
+      "bbox_xyxy": [
+        1637.7637939453125,
+        2085.750732421875,
+        1720.3033447265625,
+        2160.0
+      ],
+      "track_id": 34,
+      "is_risk": false
+    },
+    {
+      "frame_index": 300,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.26656147837638855,
+      "bbox_xyxy": [
+        2482.632568359375,
+        1127.3294677734375,
+        2645.815673828125,
+        1210.166015625
+      ],
+      "track_id": 23,
+      "is_risk": false
+    },
+    {
+      "frame_index": 330,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.6287152171134949,
+      "bbox_xyxy": [
+        1676.6771240234375,
+        1767.705078125,
+        1886.1468505859375,
+        1985.6090087890625
+      ],
+      "track_id": 4,
+      "is_risk": true
+    },
+    {
+      "frame_index": 330,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.4962379038333893,
+      "bbox_xyxy": [
+        1605.5767822265625,
+        1535.0841064453125,
+        1773.1358642578125,
+        1700.91796875
+      ],
+      "track_id": 30,
+      "is_risk": false
+    },
+    {
+      "frame_index": 330,
+      "class_id": 7,
+      "label": "truck",
+      "confidence": 0.39567628502845764,
+      "bbox_xyxy": [
+        2338.58154296875,
+        1664.7440185546875,
+        2521.642333984375,
+        1976.1881103515625
+      ],
+      "track_id": 52,
+      "is_risk": false
+    },
+    {
+      "frame_index": 330,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3676397502422333,
+      "bbox_xyxy": [
+        2765.83154296875,
+        1988.382568359375,
+        2829.516357421875,
+        2142.252197265625
+      ],
+      "track_id": 44,
+      "is_risk": true
+    },
+    {
+      "frame_index": 330,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3569607734680176,
+      "bbox_xyxy": [
+        1724.313720703125,
+        2019.0728759765625,
+        1795.010009765625,
+        2152.479736328125
+      ],
+      "track_id": 34,
+      "is_risk": true
+    },
+    {
+      "frame_index": 330,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.34603351354599,
+      "bbox_xyxy": [
+        2495.086181640625,
+        1351.1932373046875,
+        2543.947998046875,
+        1449.3297119140625
+      ],
+      "track_id": 39,
+      "is_risk": false
+    },
+    {
+      "frame_index": 330,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3202551007270813,
+      "bbox_xyxy": [
+        2844.16845703125,
+        1991.94140625,
+        2898.002197265625,
+        2138.2763671875
+      ],
+      "track_id": 40,
+      "is_risk": true
+    },
+    {
+      "frame_index": 360,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.630826473236084,
+      "bbox_xyxy": [
+        1627.880859375,
+        1648.6224365234375,
+        1829.842529296875,
+        1871.6573486328125
+      ],
+      "track_id": 4,
+      "is_risk": false
+    },
+    {
+      "frame_index": 360,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.5360851287841797,
+      "bbox_xyxy": [
+        2223.264404296875,
+        1628.554443359375,
+        2288.60595703125,
+        1789.9088134765625
+      ],
+      "track_id": 36,
+      "is_risk": false
+    },
+    {
+      "frame_index": 360,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.47537490725517273,
+      "bbox_xyxy": [
+        2319.013916015625,
+        1958.24560546875,
+        2397.84228515625,
+        2099.70947265625
+      ],
+      "track_id": 16,
+      "is_risk": false
+    },
+    {
+      "frame_index": 360,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.4715721309185028,
+      "bbox_xyxy": [
+        2272.249755859375,
+        1256.1240234375,
+        2430.6630859375,
+        1423.628173828125
+      ],
+      "track_id": 26,
+      "is_risk": true
+    },
+    {
+      "frame_index": 360,
+      "class_id": 7,
+      "label": "truck",
+      "confidence": 0.42873015999794006,
+      "bbox_xyxy": [
+        2301.50830078125,
+        1301.17724609375,
+        2606.7509765625,
+        1628.034423828125
+      ],
+      "track_id": 32,
+      "is_risk": true
+    },
+    {
+      "frame_index": 360,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.40192511677742004,
+      "bbox_xyxy": [
+        2077.386962890625,
+        1406.515625,
+        2220.31201171875,
+        1549.6649169921875
+      ],
+      "track_id": 2,
+      "is_risk": true
+    },
+    {
+      "frame_index": 360,
+      "class_id": 5,
+      "label": "bus",
+      "confidence": 0.3834027945995331,
+      "bbox_xyxy": [
+        2300.3876953125,
+        1298.5048828125,
+        2609.05908203125,
+        1626.8697509765625
+      ],
+      "track_id": 53,
+      "is_risk": true
+    },
+    {
+      "frame_index": 360,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.38180017471313477,
+      "bbox_xyxy": [
+        2554.359619140625,
+        1198.4599609375,
+        2687.137451171875,
+        1291.890380859375
+      ],
+      "track_id": 23,
+      "is_risk": true
+    },
+    {
+      "frame_index": 360,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.34785062074661255,
+      "bbox_xyxy": [
+        2488.5966796875,
+        1638.4248046875,
+        2541.955078125,
+        1751.6337890625
+      ],
+      "track_id": 27,
+      "is_risk": true
+    },
+    {
+      "frame_index": 360,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.33754763007164,
+      "bbox_xyxy": [
+        1467.36181640625,
+        1701.7581787109375,
+        1516.4886474609375,
+        1836.1092529296875
+      ],
+      "track_id": 37,
+      "is_risk": false
+    },
+    {
+      "frame_index": 360,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.33176594972610474,
+      "bbox_xyxy": [
+        2488.86181640625,
+        1121.271728515625,
+        2585.51220703125,
+        1189.596435546875
+      ],
+      "track_id": 25,
+      "is_risk": true
+    },
+    {
+      "frame_index": 360,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.3274145722389221,
+      "bbox_xyxy": [
+        2764.683837890625,
+        1944.425537109375,
+        2815.12939453125,
+        2109.697265625
+      ],
+      "track_id": 44,
+      "is_risk": true
+    },
+    {
+      "frame_index": 360,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.3071722388267517,
+      "bbox_xyxy": [
+        360.6480407714844,
+        1934.716552734375,
+        651.0320434570312,
+        2063.168212890625
+      ],
+      "track_id": 47,
+      "is_risk": false
+    },
+    {
+      "frame_index": 360,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.29716697335243225,
+      "bbox_xyxy": [
+        2191.736572265625,
+        1154.9228515625,
+        2355.398681640625,
+        1241.81005859375
+      ],
+      "track_id": 54,
+      "is_risk": false
+    },
+    {
+      "frame_index": 360,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.2917373776435852,
+      "bbox_xyxy": [
+        1381.3060302734375,
+        1462.946044921875,
+        1603.6455078125,
+        1631.1815185546875
+      ],
+      "track_id": 22,
+      "is_risk": false
+    },
+    {
+      "frame_index": 360,
+      "class_id": 0,
+      "label": "person",
+      "confidence": 0.2674993574619293,
+      "bbox_xyxy": [
+        2755.626953125,
+        1945.7677001953125,
+        2815.230712890625,
+        2155.32958984375
+      ],
+      "track_id": 40,
+      "is_risk": true
+    },
+    {
+      "frame_index": 360,
+      "class_id": 2,
+      "label": "car",
+      "confidence": 0.2599557936191559,
+      "bbox_xyxy": [
+        2559.80078125,
+        1171.187255859375,
+        2696.9189453125,
+        1291.4788818359375
+      ],
+      "track_id": 21,
+      "is_risk": true
+    }
+  ],
+  "risk_events": [
+    {
+      "frame_index": 0,
+      "track_ids": [
+        1,
+        12
+      ],
+      "labels": [
+        "car",
+        "person"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 0,
+      "track_ids": [
+        3,
+        8
+      ],
+      "labels": [
+        "person",
+        "truck"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 0,
+      "track_ids": [
+        7,
+        10
+      ],
+      "labels": [
+        "truck",
+        "bus"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 60,
+      "track_ids": [
+        21,
+        24
+      ],
+      "labels": [
+        "car",
+        "car"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 60,
+      "track_ids": [
+        6,
+        25
+      ],
+      "labels": [
+        "car",
+        "car"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 60,
+      "track_ids": [
+        23,
+        26
+      ],
+      "labels": [
+        "car",
+        "car"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 120,
+      "track_ids": [
+        14,
+        31
+      ],
+      "labels": [
+        "person",
+        "car"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 120,
+      "track_ids": [
+        14,
+        32
+      ],
+      "labels": [
+        "person",
+        "truck"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 120,
+      "track_ids": [
+        31,
+        32
+      ],
+      "labels": [
+        "car",
+        "truck"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 150,
+      "track_ids": [
+        20,
+        40
+      ],
+      "labels": [
+        "person",
+        "person"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 150,
+      "track_ids": [
+        31,
+        36
+      ],
+      "labels": [
+        "car",
+        "person"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 180,
+      "track_ids": [
+        20,
+        40
+      ],
+      "labels": [
+        "person",
+        "person"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 180,
+      "track_ids": [
+        20,
+        44
+      ],
+      "labels": [
+        "person",
+        "person"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 180,
+      "track_ids": [
+        40,
+        44
+      ],
+      "labels": [
+        "person",
+        "person"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 240,
+      "track_ids": [
+        48,
+        49
+      ],
+      "labels": [
+        "bus",
+        "truck"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 270,
+      "track_ids": [
+        26,
+        25
+      ],
+      "labels": [
+        "car",
+        "car"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 300,
+      "track_ids": [
+        2,
+        51
+      ],
+      "labels": [
+        "car",
+        "car"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 330,
+      "track_ids": [
+        4,
+        34
+      ],
+      "labels": [
+        "car",
+        "person"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 330,
+      "track_ids": [
+        44,
+        40
+      ],
+      "labels": [
+        "person",
+        "person"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        26,
+        32
+      ],
+      "labels": [
+        "car",
+        "truck"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        26,
+        53
+      ],
+      "labels": [
+        "car",
+        "bus"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        32,
+        2
+      ],
+      "labels": [
+        "truck",
+        "car"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        32,
+        53
+      ],
+      "labels": [
+        "truck",
+        "bus"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        32,
+        23
+      ],
+      "labels": [
+        "truck",
+        "car"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        32,
+        27
+      ],
+      "labels": [
+        "truck",
+        "person"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        32,
+        21
+      ],
+      "labels": [
+        "truck",
+        "car"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        2,
+        53
+      ],
+      "labels": [
+        "car",
+        "bus"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        53,
+        23
+      ],
+      "labels": [
+        "bus",
+        "car"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        53,
+        27
+      ],
+      "labels": [
+        "bus",
+        "person"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        53,
+        21
+      ],
+      "labels": [
+        "bus",
+        "car"
+      ],
+      "reason": "close proximity"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        23,
+        21
+      ],
+      "labels": [
+        "car",
+        "car"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        25,
+        21
+      ],
+      "labels": [
+        "car",
+        "car"
+      ],
+      "reason": "overlap"
+    },
+    {
+      "frame_index": 360,
+      "track_ids": [
+        44,
+        40
+      ],
+      "labels": [
+        "person",
+        "person"
+      ],
+      "reason": "overlap"
+    }
+  ]
+}

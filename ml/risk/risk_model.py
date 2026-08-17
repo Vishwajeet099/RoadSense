@@ -1,0 +1,1 @@
+"""Risk scoring model placeholder."""
